@@ -35,6 +35,10 @@ Scikit-learn – Machine Learning models
 
 Jupyter Notebook – Development & Analysis
 
+Streamlit - Interactive Web App
+
+Heroku- Deployment
+
 🔮 Future Improvements
 
 Use Deep Learning (ANN, LSTM) for advanced predictions.
