@@ -20,3 +20,24 @@ Gradient Boosting
 Model Evaluation & Accuracy comparison
 
 Match Winner Prediction
+WEB APP to showcase all the results using Streamlit-Enter Two teams, overs, wickets, balls left and there YOU GET THE OUTPUT
+
+
+🛠️ Tech Stack
+
+Python 🐍
+
+Pandas, NumPy – Data handling
+
+Matplotlib, Seaborn – Data visualization
+
+Scikit-learn – Machine Learning models
+
+Jupyter Notebook – Development & Analysis
+
+🔮 Future Improvements
+
+Use Deep Learning (ANN, LSTM) for advanced predictions.
+
+Include real-time match data (live scores, weather, pitch conditions).
+
